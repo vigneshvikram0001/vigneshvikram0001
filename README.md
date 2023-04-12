@@ -2,7 +2,7 @@
 🔭 I’m currently working on Front End Developer<br>👯‍♂️ I'm looking to collaborate on Full Stack Development<br>🌱 I’m currently learning React JS<br>🤝 I'm looking for help with developing a chrome extension<br>⚡ Fun fact - I am lazy but smart<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vignesh77847713/) 
 
 # 💻 Tech Stack:

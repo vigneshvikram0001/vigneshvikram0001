@@ -1,5 +1,5 @@
 # About Me:
-👩‍💻 I’m a Frontend Developer.<br>💻 I like to create user facing websites using modern web technologies<br>🌱 Currently I'm learning React <br>
+👩‍💻 I’m a Frontend Developer.<br>💻 I like to create user facing websites using modern web technologies<br>🌱 Currently I'm learning Backend<br>
 
 # Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vignesh77847713/) 
